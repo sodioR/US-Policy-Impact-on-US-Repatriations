@@ -22,26 +22,37 @@ $$Ratio = Repatriations/Encounters$$
 This ratio represents enforcement intensity (the share of encounters that result in repatriation).
 
 ##Summary Statistics for the Ratio
+
 <img width="542" height="152" alt="Ratio representing enforcement intensity " src="https://github.com/user-attachments/assets/0e6bf4da-e48d-4b1d-836d-e17af9746ea8" /> <br>
+
 The relatively large standard deviation indicates meaningful variability across fiscal years. Most notably, the ratio declines steadily even as raw encounter volume increases dramatically.
 This confirms that enforcement output does not scale proportionally with inflow pressure. <br>
+
 -	Ratio by Fiscal Year Line Plot: The line plot demonstrates structural decline. <br>
+
 <img width="929" height="497" alt="Ratio FY chart" src="https://github.com/user-attachments/assets/3d3aff22-2d12-4597-881d-78e4f3e6942c" /> <br>
+
 -	Histogram of Ratio: The histogram shows distributional shift over time. <br>
+
 <img width="652" height="406" alt="ratio histogram" src="https://github.com/user-attachments/assets/63f4bd8b-362b-4b4a-9eeb-7eb591c407ca" /> <br>
 
 ## Structural Patterns and Regime Differences
+
 The Ratio by Fiscal Year line plot shows a clear downward trend starting around FY2020. Even though repatriations increase at first, they do not keep up with the rapid growth in encounters. As encounters surge, the ratio steadily declines, meaning a smaller share of encounters results in repatriation over time. This creates a noticeable gap between inflow pressure (encounters) and enforcement output (repatriations). The visual makes this pattern much easier to see than looking at raw numbers alone.
 To explore whether these changes might be connected to broader institutional shifts, a boxplot of the ratio by administration was created. The boxplot shows that enforcement intensity is not evenly distributed across administrations. Instead, the ratio varies in level and spread depending on the time period. This suggests that enforcement outcomes may be influenced by broader regime conditions, not just by how many people are encountered at the border. <br>
 The Encounters by Title of Authority visualization adds another layer to this analysis. It shows how the use of Title 42 and Title 8 changes over time, especially during peak encounter years. Since Title 42 represents a major legal mechanism during the public health emergency period, shifts in authority likely affect how encounters are processed. Seeing these authority changes alongside the declining ratio provides additional context for why enforcement intensity may be shifting. <br>
 Overall, these visuals support the project’s main objective, where instead of focusing only on raw totals, the analysis looks for structural differences in enforcement intensity that align with broader policy regimes. The patterns in the ratio line plot, administration boxplot, and authority breakdown together suggest that enforcement dynamics change across institutional environments rather than remaining constant over time. <br>
 
 -	Boxplot of Ratio by Administration <br>
+
 <img width="906" height="508" alt="Boxplot of Ratio by Administration" src="https://github.com/user-attachments/assets/377bad54-c04e-4dd4-8215-a30446a9bd75" /> <br>
+
 -	Encounters by Title of Authority <br>
+
 <img width="632" height="214" alt="Encounters by Title of Authority" src="https://github.com/user-attachments/assets/551959d5-5c9a-4e23-811c-8d68312f2ac1" /> <br>
 
 ## Scaling Behavior and Capacity Constraints
+
 To better understand how encounter volume relates to enforcement outcomes, a scatter plot comparing Encounters and Repatriations was created. This visualization helps show whether removals increase at the same rate as inflow pressure or if the relationship changes as encounters rise. <br>
 The scatter plot shows that repatriations do generally increase as encounters increase, but the relationship is not proportional. At lower encounter levels, repatriations appear more tightly clustered. However, as encounters reach higher levels, the spread in repatriation totals becomes much wider. This means enforcement output becomes less predictable during peak inflow periods. In other words, the system does not seem to operate at a constant processing rate. Instead of scaling evenly with encounter growth, repatriations fluctuate more as pressure increases. <br>
 This pattern suggests that enforcement intensity may decline during periods of rapid encounter growth. When encounters surge, the share that results in repatriation appears to fall, which could reflect operational capacity limits, legal constraints, or broader institutional shifts. Rather than simply reflecting higher volume, the relationship between encounters and removals seems sensitive to structural conditions. <br>
@@ -49,6 +60,7 @@ This directly connects to one of the additional research questions outlined in t
 The scatter plot provides early exploratory evidence that such a relationship may exist and warrants further structural analysis. <br>
 
 -	Scatter Plot: Encounters vs Repatriations <br>
+
 <img width="688" height="474" alt="Encounters v Repatriations" src="https://github.com/user-attachments/assets/f400d15b-c36b-4ff3-9d0d-8c03ed69bc44" /> <br>
 
 ## Refinement of Research Questions
