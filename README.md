@@ -18,9 +18,9 @@ This dataset provides totals across enforcement authorities, including Title 42 
 - **Custom Policy Regime Marker:**
 The third dataset will be a custom created policy regime marker dataset. These markers will include administration period, public health emergency status, Title 42 activation period, national emergency status, and post policy termination phases. The aim is to overlay these markers with the repatriation to encounter ratios over time to answer our initial question on what the impact of these policies can look like.
 
-Some additional questions we hope to answer:
-•	Does enforcement intensity become more variable during emergency periods compared to non-emergency periods?
-•	Are certain administrations associated with greater stability or volatility in repatriation rates?
-•	Do periods of rapid encounter growth correspond with declining repatriation ratios, potentially suggesting operational capacity constraints?
-•	Does the end of a policy regime lead to normalization, overshoot, or continued divergence in enforcement outcomes?
-•	Are observed ratio changes consistent across fiscal years, or concentrated within specific months?
+Some additional questions we hope to answer: <br>
+•	Does enforcement intensity become more variable during emergency periods compared to non-emergency periods? <br>
+•	Are certain administrations associated with greater stability or volatility in repatriation rates? <br>
+•	Do periods of rapid encounter growth correspond with declining repatriation ratios, potentially suggesting operational capacity constraints? <br>
+•	Does the end of a policy regime lead to normalization, overshoot, or continued divergence in enforcement outcomes? <br>
+•	Are observed ratio changes consistent across fiscal years, or concentrated within specific months? <br>
