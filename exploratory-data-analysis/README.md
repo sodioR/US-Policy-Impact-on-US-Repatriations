@@ -22,7 +22,7 @@ These establish the raw structure of the numerator and denominator.
 To move beyond raw totals, annual encounter totals were aggregated and merged with annual DHS repatriations to construct a “repatriation to encounter” ratio:
 
 $$
-Ratio &= \frac{Repatriations}{Encounters}
+\text{Ratio} = \frac{\text{Repatriations}}{\text{Encounters}}
 $$
 
 This ratio represents enforcement intensity (the share of encounters that result in repatriation).
