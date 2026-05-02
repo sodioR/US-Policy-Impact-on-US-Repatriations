@@ -21,7 +21,9 @@ During the Title 42 period, encounters rose at a much faster pace than repatriat
 $$
 \text{Ratio} = \frac{\text{Repatriations}}{\text{Encounters}}
 $$
-<img width="1124" height="765" alt="image" src="https://github.com/user-attachments/assets/2c6aa02f-d431-4468-8b2b-76cd13fb8ba2" />
+
+<img width="1124" height="765" alt="image" src="https://github.com/user-attachments/assets/2c6aa02f-d431-4468-8b2b-76cd13fb8ba2" /> <br>
+
 **Ratio Definition:** <br>
 The efficiency ratio is calculated as Repatriations divided by Encounters. It measures how many repatriation outcomes occurred for each recorded encounter during a given year. <br>
 **What It Represents:** <br>
