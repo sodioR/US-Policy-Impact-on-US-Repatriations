@@ -6,12 +6,15 @@ This project examines whether shifts in federal policy regimes are associated wi
 The DHS repatriations dataset mainly includes annual removal totals by fiscal year, along with several categorical breakdowns such as repatriation type, criminal vs non criminal status, arrest location, citizenship, and agency. For this EDA, the most important numerical variable is the annual repatriation total (quantity), since it represents the outcome side of immigration enforcement. These values are count based, meaning they are whole numbers and cannot be negative, and they show noticeable variation across fiscal years. This variability becomes clear in the Annual Repatriations line plot shown below, where we can see fluctuations over time rather than a stable pattern.
 The CBP encounters dataset, on the other hand, represents inflow pressure. Its main numerical variable is Encounter Count, which captures how many individuals were encountered in a given fiscal year. In addition to year level totals, this dataset includes several categorical dimensions such as Land Border Region, Area of Responsibility, State, Demographic category, Citizenship, Title of Authority, and Encounter Type. These categories help describe not just how many encounters occurred, but also under what legal authority and in which geographic or demographic context they occurred. The Annual Encounters line plot below shows a sharp increase beginning around FY2020, highlighting how dramatically inflow pressure changes during this period.
 Comparing the two visuals side by side reveals an important pattern. While encounters increase sharply after FY2020, repatriations do not rise at the same rate and eventually decline. This suggests that enforcement outcomes may not scale proportionally with encounter volume. Additionally, the categorical breakdown in the encounters dataset shows a clear distinction between Title 42 and Title 8 authority, which is important given the project’s focus on policy regimes. The Encounters by Title of Authority visualization further supports this by showing how legal authority shifts during peak encounter years, reinforcing the broader regime based framing described in the project proposal.
-	
+
+
 - ***Annual Encounters Line Plot***
  <img width="589" height="470" alt="Annual Encounters Line Plot" src="https://github.com/user-attachments/assets/fde0c687-bbb7-4046-88fb-1306d4c0f71e" />
 
+
 - ***Annual Repatriations Line Plot***
 <img width="616" height="463" alt="Annual Repatriations Line Plot" src="https://github.com/user-attachments/assets/7400d1d7-e4f0-4d4e-a79d-14c7a7867172" />
+
 
 These establish the raw structure of the numerator and denominator.
 
@@ -27,24 +30,30 @@ This ratio represents enforcement intensity (the share of encounters that result
 
 The relatively large standard deviation indicates meaningful variability across fiscal years. Most notably, the ratio declines steadily even as raw encounter volume increases dramatically.
 This confirms that enforcement output does not scale proportionally with inflow pressure.
-	
+
+
 - ***Ratio by Fiscal Year Line Plot: The line plot demonstrates structural decline.***
 <img width="929" height="497" alt="Ratio FY chart" src="https://github.com/user-attachments/assets/29b709ed-5555-4f79-b15d-9eb0d959e65f" />
 
+
 - ***Histogram of Ratio: The histogram shows distributional shift over time.***
 <img width="652" height="406" alt="ratio histogram" src="https://github.com/user-attachments/assets/6bd385d5-3e79-4cb9-abab-75340dd3c6c9" />
+
 
 ## Structural Patterns and Regime Differences
 The Ratio by Fiscal Year line plot shows a clear downward trend starting around FY2020. Even though repatriations increase at first, they do not keep up with the rapid growth in encounters. As encounters surge, the ratio steadily declines, meaning a smaller share of encounters results in repatriation over time. This creates a noticeable gap between inflow pressure (encounters) and enforcement output (repatriations). The visual makes this pattern much easier to see than looking at raw numbers alone.
 To explore whether these changes might be connected to broader institutional shifts, a boxplot of the ratio by administration was created. The boxplot shows that enforcement intensity is not evenly distributed across administrations. Instead, the ratio varies in level and spread depending on the time period. This suggests that enforcement outcomes may be influenced by broader regime conditions, not just by how many people are encountered at the border.
 The Encounters by Title of Authority visualization adds another layer to this analysis. It shows how the use of Title 42 and Title 8 changes over time, especially during peak encounter years. Since Title 42 represents a major legal mechanism during the public health emergency period, shifts in authority likely affect how encounters are processed. Seeing these authority changes alongside the declining ratio provides additional context for why enforcement intensity may be shifting.
 Overall, these visuals support the project’s main objective, where instead of focusing only on raw totals, the analysis looks for structural differences in enforcement intensity that align with broader policy regimes. The patterns in the ratio line plot, administration boxplot, and authority breakdown together suggest that enforcement dynamics change across institutional environments rather than remaining constant over time.
-	
+
+
 - Boxplot of Ratio by Administration
  <img width="906" height="508" alt="Boxplot of Ratio by Administration" src="https://github.com/user-attachments/assets/950fbb3b-7830-425f-8b1d-05196c19f65d" />
 
+
 - Encounters by Title of Authority
  <img width="632" height="214" alt="Encounters by Title of Authority" src="https://github.com/user-attachments/assets/a24b7c9d-c69f-4017-9095-c9e12b7c5cf3" />
+
 
 ## Scaling Behavior and Capacity Constraints
 To better understand how encounter volume relates to enforcement outcomes, a scatter plot comparing Encounters and Repatriations was created. This visualization helps show whether removals increase at the same rate as inflow pressure or if the relationship changes as encounters rise.
@@ -52,8 +61,10 @@ The scatter plot shows that repatriations do generally increase as encounters in
 This pattern suggests that enforcement intensity may decline during periods of rapid encounter growth. When encounters surge, the share that results in repatriation appears to fall, which could reflect operational capacity limits, legal constraints, or broader institutional shifts. Rather than simply reflecting higher volume, the relationship between encounters and removals seems sensitive to structural conditions.
 This directly connects to one of the additional research questions outlined in the project proposal, which is whether periods of rapid encounter growth correspond with declining repatriation ratios, potentially indicating operational capacity constraints. The scatter plot provides early exploratory evidence that such a relationship may exist and warrants further structural analysis.
 
+
 - Scatter Plot: Encounters vs Repatriations
  <img width="688" height="474" alt="Encounters v Repatriations" src="https://github.com/user-attachments/assets/9b56af78-141c-42d7-8a4b-aad264f3c1c2" />
+
 
 ## Refinement of Research Questions
 The initial question asked whether changes in repatriation ratios are associated with identifiable federal policy regime shifts. After examining the visuals and summary statistics, it is clear that the ratio does not remain stable over time. Instead, it shows noticeable structural movement beginning around FY2020, which suggests that something broader than random fluctuation may be occurring.
