@@ -47,11 +47,11 @@ The Encounters by Title of Authority visualization adds another layer to this an
 Overall, these visuals support the project’s main objective, where instead of focusing only on raw totals, the analysis looks for structural differences in enforcement intensity that align with broader policy regimes. The patterns in the ratio line plot, administration boxplot, and authority breakdown together suggest that enforcement dynamics change across institutional environments rather than remaining constant over time.
 
 
-- Boxplot of Ratio by Administration
+- ***Boxplot of Ratio by Administration***
  <img width="906" height="508" alt="Boxplot of Ratio by Administration" src="https://github.com/user-attachments/assets/950fbb3b-7830-425f-8b1d-05196c19f65d" />
 
 
-- Encounters by Title of Authority
+- ***Encounters by Title of Authority***
  <img width="632" height="214" alt="Encounters by Title of Authority" src="https://github.com/user-attachments/assets/a24b7c9d-c69f-4017-9095-c9e12b7c5cf3" />
 
 
@@ -62,7 +62,7 @@ This pattern suggests that enforcement intensity may decline during periods of r
 This directly connects to one of the additional research questions outlined in the project proposal, which is whether periods of rapid encounter growth correspond with declining repatriation ratios, potentially indicating operational capacity constraints. The scatter plot provides early exploratory evidence that such a relationship may exist and warrants further structural analysis.
 
 
-- Scatter Plot: Encounters vs Repatriations
+- ***Scatter Plot: Encounters vs Repatriations***
  <img width="688" height="474" alt="Encounters v Repatriations" src="https://github.com/user-attachments/assets/9b56af78-141c-42d7-8a4b-aad264f3c1c2" />
 
 
