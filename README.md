@@ -23,9 +23,9 @@ $$
 $$
 <img width="1124" height="765" alt="image" src="https://github.com/user-attachments/assets/2c6aa02f-d431-4468-8b2b-76cd13fb8ba2" />
 **Ratio Definition:** <br>
-The efficiency ratio is calculated as Repatriations divided by Encounters. It measures how many repatriation outcomes occurred for each recorded encounter during a given year.
+The efficiency ratio is calculated as Repatriations divided by Encounters. It measures how many repatriation outcomes occurred for each recorded encounter during a given year. <br>
 **What It Represents:** <br>
-A higher ratio suggests repatriation outcomes were keeping pace with, or exceeding, encounter volume. A lower ratio suggests encounters were growing faster than repatriation outcomes, indicating greater system pressure or reduced conversion of encounters into repatriations.
+A higher ratio suggests repatriation outcomes were keeping pace with, or exceeding, encounter volume. A lower ratio suggests encounters were growing faster than repatriation outcomes, indicating greater system pressure or reduced conversion of encounters into repatriations. <br>
 **Interpretation:** <br>
 The ratio declines substantially over the study period, falling from 1.34 in 2009 to 0.31 in 2024. Although temporary increases appear during the early Title 42 period, the long-run trend suggests that encounters ultimately expanded faster than repatriation outcomes. This indicates higher enforcement volume, but no sustained improvement in operational efficiency. 
 
@@ -40,14 +40,14 @@ While the scenario ratio model predicted only modest differences across policy c
 
 ## Conclusion
 **Context:** <br>
-This project examined how major U.S. immigration policy shifts changed border enforcement outcomes from 2015 to 2025. Rather than relying only on raw totals, we compared repatriations, encounters, and efficiency ratios to understand whether policies improved enforcement results or simply changed processing volume.
+This project examined how major U.S. immigration policy shifts changed border enforcement outcomes from 2015 to 2025. Rather than relying only on raw totals, we compared repatriations, encounters, and efficiency ratios to understand whether policies improved enforcement results or simply changed processing volume. <br>
 **Story:** <br>
-Our analysis found that Title 42 was associated with higher repatriation counts, and nearly three-fourths of repatriations during that period were Title 42 expulsions. However, encounters increased even faster, causing the repatriation-to-encounter efficiency ratio to decline over time. This suggests the surge reflected a faster processing mechanism and higher activity levels, but not a lasting improvement in enforcement efficiency. The models reinforced this pattern, showing modest count increases under Title 42 but limited gains in the ratio itself.
+Our analysis found that Title 42 was associated with higher repatriation counts, and nearly three-fourths of repatriations during that period were Title 42 expulsions. However, encounters increased even faster, causing the repatriation-to-encounter efficiency ratio to decline over time. This suggests the surge reflected a faster processing mechanism and higher activity levels, but not a lasting improvement in enforcement efficiency. The models reinforced this pattern, showing modest count increases under Title 42 but limited gains in the ratio itself. <br>
 **Call to Action:** <br>
 This research shows why policy outcomes should be evaluated using both totals and efficiency metrics, not raw counts alone. Future immigration policy decisions should focus on sustainable capacity, processing effectiveness, and long-term operational results rather than short-term spikes in reported enforcement numbers. For voters and the broader public, this research highlights the importance of evaluating immigration claims with complete metrics, not isolated totals. Informed civic decisions require asking whether policies improved long-term capacity, efficiency, and outcomes rather than only producing short-term spikes in reported numbers.
 
 ## Additional Adjacent Research:
-- FY2019 Spike in Encounters.
+- FY2019 Spike in Encounters. 
   - Due to push and pull effect (increased strife and poverty along with increased processing times)
 - ICE Detentions over the past decade.
   - Detention durations have skyrocketed during and after the first Trump administration (likely due to policies such as MPP that impacted immigration court system processing time)
