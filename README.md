@@ -1,5 +1,5 @@
 # Policy Impact on US Repatriations
-***By Sadia Rahman and Brooke Rice***
+**Authored by** Sadia Rahman and Brooke Rice
 
 ## Topic Ovevrview
 - We aimed to examine how U.S. immigration policy shifts affected border enforcement outcomes, primarily from 2015 to 2025. 
